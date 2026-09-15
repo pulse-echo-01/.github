@@ -6,7 +6,8 @@
 
 ## 工具
 
-* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 截图为gif动图
+* [ScreenToGif]((https://github.com/pulse-echo-01/.github/blob/master/docs/screamtogif.md)) - 截图为gif动图
+* [ScreenToGif]() - 截图为gif动图
 
 * [shotcut](https://github.com/mltframework/shotcut) - 视频编辑
 
